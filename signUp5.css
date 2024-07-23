@@ -1,0 +1,262 @@
+
+.a{
+    text-align: center;
+    transform: translate(156%,-56%);
+    background-color: black;
+    border-radius: 0em;
+    box-shadow: 0.5em 0.5em 0.5em 0.2em black;
+    width: 25vw;
+    height: 145vh;
+    visibility: visible;
+    margin-top: 7em;
+    border-top: 0em;
+}
+
+body{
+    background-image: url(pat.jfif);
+} 
+
+.a1{
+    color: white;
+    transform: translate(2%,38%);
+}
+.a2{
+    color: white;
+    transform: translate(2%,23%);
+}
+.a3{
+    color: white;
+    transform: translate(2%,18%);
+}
+.a4{
+    color: white;
+    transform: translate(2%,14%);
+}
+.a5{
+    color: white;
+    transform: translate(2%,10%);
+}
+.a6{
+    color: white;
+    transform: translate(-35%,-112%);
+}
+.a11{
+    width: 36vw;
+    transform: translate(-20.55%,12%);
+    border: none;
+    color: white;
+    font-size: 18px;
+}
+.a22{
+    width: 36vw;
+    transform: translate(-20.55%,12%);
+    border: none;
+    color: white;
+    font-size: 18px;
+}
+.a33{
+    width: 36vw;
+    transform: translate(-20.55%,10%);
+    border: none;
+    color: white;
+    font-size: 18px;
+}
+.a44{
+    width: 36vw;
+    transform: translate(-80.55%,-18%);
+    border: none;
+    color: white;
+    font-size: 18px;
+}
+.a55{
+    width: 36vw;
+    transform: translate(-44.55%,-72%);
+    border: none;
+    color: white;
+    font-size: 18px;
+}
+.a52{
+    width: 36vw;
+    transform: translate(-14.55%,-242%);
+    border: none;
+    color: white;
+    font-size: 18px;
+}
+.m1{
+    text-align: center;
+    margin: 1em;
+    padding-top: 0.5em;
+    padding-bottom: 1em;
+    transform: translate(-1%,58%);
+    width: 22vw;
+    height: 0.5vh;
+    color: white;
+    background-color: pink;
+    visibility: visible;
+}
+h4{
+    text-align: initial;
+    margin: 0em;
+    padding: 0.9em;
+    transform: translate(39%,20%);
+    
+}
+input{
+    background-color: transparent;
+    border-left: none;
+    border-right:none;
+    border-top:none;
+    border-bottom:solid 3px white;
+    color: white;
+    margin: 6px;
+    border-bottom:solid 3px pink;
+    }
+.dmy{
+    transform: translate(165%,50%);
+}
+.m{
+    transform: translate(124%,140%);
+}
+.m11{
+    transform: translate(-3.55em,-1.36em);
+    color: pink;
+}
+
+.f{
+    transform: translate(124%,140%);
+}
+.f1{
+    transform: translate(3.68em,-4.09em);
+    color: pink;
+}
+.a6{
+    text-align: inherit;
+    transform: translate(-30%,-116%);
+}
+.a61{
+    margin: 0.1em;
+    padding: 0.2em;
+    border: none;
+}
+.ad{
+    margin: 0.3em;
+    transform: translate(-10%,-310%);
+}
+.ad1{
+    margin: 0.3em;
+    transform: translate(-10%,-260%);
+}
+.cu{
+    margin: 0.3em;
+    transform: translate(-10%,-210%);
+}
+.ad2{
+    margin: 1.5em;
+    transform: translate(-10%,-220%);
+}
+.pa1{
+    margin: 0.5em;
+    transform: translate(-10%,-210%);
+    margin-top: 0.01em;
+}
+.pa2{
+    margin: 0.5em;
+    transform: translate(-10%,-160%);
+    margin-top: 0.01em;
+}
+.main{
+    width: 35%;
+    height: 55%;
+    background-color: black;
+    display: flex;
+    flex-direction: row;
+    column-count: 2;
+    flex: 3%;
+    position: relative;
+}
+nav{
+    background-color: transparent;
+    width:7vw;
+}
+.b{
+    text-align: left;
+    width: 25%;
+    height: 25%;
+    color: black;
+}
+.b1{
+    width: 30%;
+    height: 65%;
+    text-align: center;
+    border-radius: 5px;
+    padding: 1.5em;
+    color: white;
+    background-color:black;
+    border: double;
+    border-color: pink;
+    transform: translate(124%,104%);
+
+}
+.b2{
+    width: 30%;
+    height: 65%;
+    text-align: center;
+    border-radius: 5px;
+    padding: 1.5em;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    color: white;
+    background-color:black;
+    border: double;
+    border-color: pink;
+    transform: translate(124%,98%);
+
+
+}
+.b3{
+    width: 36%;
+    height: 65%;
+    text-align: center;
+    border-radius: 5px;
+    padding: 1.5em;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    padding-left: 0.5em;
+    color: white;
+    background-color:black;
+    border: double;
+    border-color: pink;
+    transform: translate(124%,92%);
+
+
+}
+.b4{
+    width: 36%;
+    height: 65%;
+    text-align: center;
+    border-radius: 5px;
+    padding: 1.5em;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    padding-left: 0.5em;
+    color: white;
+    background-color:black;
+    border: double;
+    border-color: pink;
+    transform: translate(124%,82%);
+
+
+}
+button{
+    transform: translate(2%,4%);
+    color: pink;
+    background-color: black;
+    width: 5em;
+    height: 3em;
+    border-radius: 1em;
+    cursor: pointer;
+}
+
+img{
+    transform: translate(108%,85%);
+}

@@ -1,0 +1,199 @@
+.a{
+    width: 40vw;
+    height:10vh;
+    position: absolute;
+   background-color: black;
+   box-shadow: 2px 4px 4px 1px pink;
+   color: white;
+   border-style: groove;
+   border-color: pink;
+    text-align: center;
+    margin: 2em;
+    left: 25%;
+    border-radius: 1.5em;
+    transform: translate(20%,-50%);
+}
+
+body{
+    background-image: url(pat.jfif);
+}
+
+.main{
+    display: flex;
+    flex-direction: row;
+    column-count: 2;
+    flex: 30%;
+    transform: translate(0%,10%);
+    color: white;
+}
+.b1{
+    width: 100%;
+    height: 205%;
+    background-color: black;
+    border-style: double;
+    border-color: pink;
+    transform: translate(25%,165%);
+    padding-top: 0.9em;
+    padding-bottom: 0.9em;
+    text-align: center;
+    font-size: 24px;
+    color: white;
+    -webkit-text-fill-color: white;
+}
+.b2{
+    width: 100%;
+    height: 125%;
+    background-color: black;
+    border-style: double;
+    border-color: pink;
+    transform: translate(25%,205%);
+    padding-top: 0.9em;
+    padding-bottom: 0.9em;
+    text-align: center;
+    font-size: 24px;
+    color: white;
+    -webkit-text-fill-color: white;
+}
+.b3{
+    width: 100%;
+    height: 205%;
+    background-color: black;
+    border-style: double;
+    border-color: pink;
+    transform: translate(25%,245%);
+    padding-top: 0.9em;
+    padding-bottom: 0.9em;
+    text-align: center;
+    font-size: 24px;
+    color: white;
+    -webkit-text-fill-color: white;
+}
+.b4{
+    width: 100%;
+    height: 205%;
+    background-color: black;
+    border-style: double;
+    border-color: pink;
+    transform: translate(25%,285%);
+    padding-top: 0.9em;
+    padding-bottom: 0.9em;
+    text-align: center;
+    font-size: 24px;
+    color: white;
+    -webkit-text-fill-color: white;
+}
+.c1{
+    width: 10vw;
+    height: 6vh;
+    background-color: black;
+    border-style: groove;
+    border-color: pink;
+    transform: translate(48%,420%);
+    padding-top: 0.4em;
+    padding-bottom: 0.7em;
+    margin: 1em;
+    text-align: center;
+    font-size: 16px;
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+    -webkit-text-fill-color: white;
+    
+}
+.c2{
+    width: 10vw;
+    height: 6vh;
+    background-color: black;
+    border-style: groove;
+    border-color: pink;
+    transform: translate(48%,430%);
+    padding-top: 0.4em;
+    padding-bottom: 0.7em;
+    margin: 1em;
+    text-align: center;
+    font-size: 16px;
+    color: white;
+    cursor: pointer;
+    -webkit-text-fill-color: white;
+}
+.c3{
+    width: 10vw;
+    height: 6vh;
+    background-color: black;
+    border-style: groove;
+    border-color: pink;
+    transform: translate(48%,440%);
+    padding-top: 0.4em;
+    padding-bottom: 0.7em;
+    margin: 1em;
+    text-align: center;
+    font-size: 16px;
+    color: white;
+    cursor: pointer;
+    -webkit-text-fill-color: white;
+}
+.c4{
+    width: 10vw;
+    height: 6vh;
+    background-color: black;
+    border-style: groove;
+    border-color: pink;
+    transform: translate(48%,450%);
+    padding-top: 0.4em;
+    padding-bottom: 0.7em;
+    margin: 1em;
+    text-align: center;
+    font-size: 16px;
+    color: white;
+    cursor: pointer;
+    -webkit-text-fill-color: white;
+}
+
+
+.c{
+        color: white;
+        width: 20vw;
+        height: 58vh;
+        position: absolute;
+        left: 35em;
+        top: 10em;
+        background-color: black;
+        box-shadow: 7px 4px 4px 1px black;
+        margin:2%;
+        transform: translate(-30%,-8%);
+
+}
+input{
+    background-color: transparent;
+    border-left: none;
+    border-right:none;
+    border-top:none;
+    border-bottom:solid 3px white;
+    color: white;
+    margin: 6px;
+}
+button{
+    width: 15em;
+    height: 2.5em;
+    background-color: pink;
+    text-align: center;
+    left: 22em;
+    margin: 0.2px;
+    padding: 2px;
+    cursor: pointer;
+}
+h5{
+    color:pink;
+    text-align: center;
+
+}
+
+    .su{
+        background-color: pink;
+        width:16vw;
+        height: 4.55vh;
+        transform: translate(16%,30%);
+        color: white;
+        text-align: center;
+        padding-top: 0.5em;
+        
+    }
